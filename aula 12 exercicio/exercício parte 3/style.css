@@ -1,0 +1,36 @@
+body {
+    background-image: url(./assets/planodefundo.png);
+    background-size: cover;
+    background-position: 60%;
+    background-repeat: no-repeat;
+    font: normal 15pt arial;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 5vw;
+    width: 30vw;
+    height: 50vh;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.59);
+
+    gap: 20px;
+    text-align: left;
+}
+
+section div {
+    margin-top: 20px;
+}
+
+#resultado {
+    text-align: center;
+}
+
+footer {
+    height: 12vh;
+}
